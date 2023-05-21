@@ -13,7 +13,7 @@ Tell: [09152226787](tel:09152226787)
 
 <a href="tel:09152226787">09152226787</a>
 
-[link](tel:09152226787){:target="_blank"}
+<a href="tel:0123456789" style="color:red">0123.456.789</a>
 
 Whatsapp: [09152226787](https://wa.me/09152226787)
 
