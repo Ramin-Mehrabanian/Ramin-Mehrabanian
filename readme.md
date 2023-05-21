@@ -9,6 +9,8 @@
 
 #### Ways to communicate with me: <br> Whatsapp / Telegram: 09152226787 <br> Mail: Ramin77.051@gmail.com
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+
 [![snake](https://github-production-user-asset-6210df.s3.amazonaws.com/47733873/239704540-50c36f4a-6024-4bca-97f3-cd9f5db5543e.svg)](https://github.com/Ramin-Mehrabanian "snake")
 
 
