@@ -13,7 +13,7 @@ Tell: [09152226787](tel:09152226787)
 
 Whatsapp: [09152226787](https://wa.me/09152226787)
 
-[![Telegram](https://github-production-user-asset-6210df.s3.amazonaws.com/47733873/239743489-8d276e17-d030-4615-b5b3-14c98060ecb1.png "Telegram")](https://wa.me/09152226787 "Telegram")
+[![Telegram](https://github-production-user-asset-6210df.s3.amazonaws.com/47733873/239743489-8d276e17-d030-4615-b5b3-14c98060ecb1.png "Telegram") Telegram](https://t.me/ram77 "Telegram")
 
 Telegram: [09152226787](https://t.me/ram77)
 
