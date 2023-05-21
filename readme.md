@@ -11,11 +11,7 @@
 
 Tell: [09152226787](tel:09152226787)
 
-![whatsapp](https://github.com/Ramin-Mehrabanian/Ramin-Mehrabanian/assets/47733873/1ac3eae1-0fec-4492-9aed-d8e1f74413ab)
-
-
-
-[![Whatsapp](https://github-production-user-asset-6210df.s3.amazonaws.com/47733873/239743489-8d276e17-d030-4615-b5b3-14c98060ecb1.png "Whatsapp") My Whatsapp](https://wa.me/09152226787 "Whatsapp")
+[![Whatsapp](https://user-images.githubusercontent.com/47733873/239743750-1ac3eae1-0fec-4492-9aed-d8e1f74413ab.png "Whatsapp") My Whatsapp](https://wa.me/09152226787 "Whatsapp")
 
 [![Telegram](https://github-production-user-asset-6210df.s3.amazonaws.com/47733873/239743489-8d276e17-d030-4615-b5b3-14c98060ecb1.png "Telegram") My Telegram](https://t.me/ram77 "Telegram")
 
