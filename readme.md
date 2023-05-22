@@ -15,7 +15,7 @@ Tell: [09152226787](tel:09152226787)
 
 [![Telegram](https://github-production-user-asset-6210df.s3.amazonaws.com/47733873/239743489-8d276e17-d030-4615-b5b3-14c98060ecb1.png "Telegram") My Telegram](https://t.me/ram77 "Telegram")
 
-[![Gmail](https://user-images.githubusercontent.com/47733873/239743956-5f624a92-25ff-41e6-b083-5e7dbbfc7281.png "Telegram") My Gmail](Ramin77.051@gmail.com "Gmail")
+[![Gmail](https://user-images.githubusercontent.com/47733873/239743956-5f624a92-25ff-41e6-b083-5e7dbbfc7281.png "Telegram") Ramin77.051@gmail.com](Ramin77.051@gmail.com "Gmail")
 
 
 [![snake](https://github-production-user-asset-6210df.s3.amazonaws.com/47733873/239704540-50c36f4a-6024-4bca-97f3-cd9f5db5543e.svg)](https://github.com/Ramin-Mehrabanian "snake")
